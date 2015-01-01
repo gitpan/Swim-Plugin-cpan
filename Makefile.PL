@@ -24,7 +24,7 @@ my %WriteMakefileArgs = (
     "Swim" => "0.1.33",
     "Swim::Plugin::badge" => "0.1.7"
   },
-  "VERSION" => "0.0.2",
+  "VERSION" => "0.0.3",
   "test" => {
     "TESTS" => "t/*.t"
   }
