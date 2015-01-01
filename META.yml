@@ -26,4 +26,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/swim-plugin-cpan-pm/issues
   homepage: https://github.com/ingydotnet/swim-plugin-cpan-pm
   repository: https://github.com/ingydotnet/swim-plugin-cpan-pm.git
-version: 0.0.3
+version: 0.0.4
