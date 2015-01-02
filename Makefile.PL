@@ -21,10 +21,10 @@ my %WriteMakefileArgs = (
   "MIN_PERL_VERSION" => "5.008001",
   "NAME" => "Swim::Plugin::cpan",
   "PREREQ_PM" => {
-    "Swim" => "0.1.33",
+    "Swim" => "0.1.35",
     "Swim::Plugin::badge" => "0.1.7"
   },
-  "VERSION" => "0.0.4",
+  "VERSION" => "0.0.5",
   "test" => {
     "TESTS" => "t/*.t"
   }
@@ -33,7 +33,7 @@ my %WriteMakefileArgs = (
 
 my %FallbackPrereqs = (
   "ExtUtils::MakeMaker" => 0,
-  "Swim" => "0.1.33",
+  "Swim" => "0.1.35",
   "Swim::Plugin::badge" => "0.1.7"
 );
 

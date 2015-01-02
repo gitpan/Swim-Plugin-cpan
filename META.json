@@ -10,7 +10,7 @@
    ],
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
-      "version" : "2"
+      "version" : 2
    },
    "name" : "Swim-Plugin-cpan",
    "no_index" : {
@@ -34,7 +34,7 @@
       },
       "runtime" : {
          "requires" : {
-            "Swim" : "v0.1.33",
+            "Swim" : "v0.1.35",
             "Swim::Plugin::badge" : "v0.1.7",
             "perl" : "v5.8.1"
          }
@@ -52,6 +52,6 @@
          "web" : "https://github.com/ingydotnet/swim-plugin-cpan-pm"
       }
    },
-   "version" : "0.0.4"
+   "version" : "0.0.5"
 }
 

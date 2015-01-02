@@ -19,11 +19,11 @@ no_index:
     - xt
     - example
 requires:
-  Swim: v0.1.33
+  Swim: v0.1.35
   Swim::Plugin::badge: v0.1.7
   perl: v5.8.1
 resources:
   bugtracker: https://github.com/ingydotnet/swim-plugin-cpan-pm/issues
   homepage: https://github.com/ingydotnet/swim-plugin-cpan-pm
   repository: https://github.com/ingydotnet/swim-plugin-cpan-pm.git
-version: 0.0.4
+version: 0.0.5
